@@ -1,5 +1,10 @@
-# Movie class with 3 attributes - Movie title,poster image,movie traier Link
+""" Movie class 
 
+     Attributes - 
+       movie_title - Will store the title of movie,
+       poster_image_url - url of the poster,
+       trailer_youtube_url - trailer of the movie link 
+"""
 class Movie: 
 
     #Constructor 
