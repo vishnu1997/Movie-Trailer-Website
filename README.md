@@ -3,7 +3,7 @@
         It generates a static web page allowing visitors to browse their movies and watch the trailers.
 
 ## Requirements:
-    Python 3
+    Python 2.7
     
 ## Description
     enterainment_center - This is the center/main file. It contains a list of Movie class objects which  
