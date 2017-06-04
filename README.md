@@ -7,5 +7,5 @@
     Python should have been installed as well as a browser.
 
 ## How to run
-    * Download/Clone the repository.
-    * Run entertainment_center.py.
+    - Download/Clone the repository.
+    - Run entertainment_center.py.
